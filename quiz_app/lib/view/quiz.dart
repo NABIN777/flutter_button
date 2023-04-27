@@ -12,7 +12,7 @@ class _QuizViewState extends State<QuizView> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Quiz App'),
+        title: const Text('Number Generator APP'),
         centerTitle: true,
         elevation: 0,
         backgroundColor: Colors.black87,
