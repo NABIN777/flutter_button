@@ -108,7 +108,7 @@ class _QuizViewState extends State<QuizView> {
                 style: TextStyle(
                   fontSize: 20,
                   fontWeight: FontWeight.bold,
-                  color: Color.fromARGB(255, 137, 4, 4),
+                  color: Color.fromARGB(255, 224, 36, 36),
                 ),
               ),
             ),
